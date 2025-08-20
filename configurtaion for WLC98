@@ -1,0 +1,15 @@
+wlcl98
+
+
+config t
+username admin privilege 15 secret C1sc0123
+line vty 0 48
+login local
+exec-timeout 0 0
+int vlan1 
+no shut
+ip address dhcp
+do sh ip int bri
+
+
+
