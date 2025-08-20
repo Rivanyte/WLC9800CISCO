@@ -1,0 +1,21 @@
+enable
+configure terminal
+wireless management interface vlan 1       
+end
+
+wireless config vwlc-ssc key-size 2048 signature-algo sha256 password 0 C1sc0123
+
+
+show wireless management trustpoint
+
+
+enable
+configure terminal
+wireless management interface vlan 1
+end
+
+wireless config vwlc-ssc key-size 2048 signature-algo sha256 password 0 justfornow
+
+show wireless management trustpoint
+
+
