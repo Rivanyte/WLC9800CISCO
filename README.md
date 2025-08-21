@@ -261,7 +261,7 @@ ip dhcp pool VLAN1-POOL
 <img width="1897" height="935" alt="image" src="https://github.com/user-attachments/assets/828e8160-7488-4ac3-854b-a671d3a6fd33" />
 
 
-#THE END
+# THE END
 
 
 
