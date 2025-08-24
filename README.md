@@ -122,7 +122,7 @@ show wireless manaegemnt trustpoint
 
 <img width="1897" height="676" alt="image" src="https://github.com/user-attachments/assets/451bcd3d-05d3-4cf6-b9d7-54fa593c26dc" />
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # CONNECTING TO THE WLAN MADE  
 
